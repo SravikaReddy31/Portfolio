@@ -1,22 +1,23 @@
-# 🌐 Personal Portfolio – D. Sravika Reddy
+# Personal Portfolio – D. Sravika Reddy
 
 This is my personal portfolio website built using **HTML**, **CSS**.  
 It showcases my **education**, **skills**, and represents my learning journey as a **B.Tech 2nd Year CSE student**.
 
 ---
 
-## 📌 About This Portfolio
+##  About This Portfolio
 This portfolio is created to present:
 - My introduction and background  
 - My education details  
 - My technical and soft skills  
-- My learning progress  
+- My learning progress
+- My Projects
 
 It reflects my interest in **web development**, **programming**, and continuous learning.
 
 ---
 
-## 🚀 Features
+##  Features
 - Clean and responsive design  
 - “About Me”, “Education”, and “Skills” pages  
 - Modern layout with cards/sections  
@@ -26,7 +27,7 @@ It reflects my interest in **web development**, **programming**, and continuous 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **Git & GitHub**
@@ -34,7 +35,7 @@ It reflects my interest in **web development**, **programming**, and continuous 
 
 ---
 
-## 📚 Sections Included
+##  Sections Included
 ### 🔹 Home / About Me  
 Contains my introduction, personal details, and interests.
 
@@ -53,14 +54,14 @@ Also includes:
 
 ---
 
-## 📈 What I'm Currently Learning
+##  What I'm Currently Learning
 - JavaScript fundamentals  
 - Advanced CSS concepts  
 - Backend basics (servers & databases)
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 I plan to add:
 - Projects section  
 - Dark mode  
@@ -70,7 +71,7 @@ I plan to add:
 
 ---
 
-## 📩 Contact
+##  Contact
 If you wish to connect:  
 **Name:** D. Sravika Reddy  
 **Email:** sravikareddydanda31@gmail.com  
@@ -78,7 +79,7 @@ If you wish to connect:
 
 ---
 
-## 📄 License
+##  License
 This project is open-source and free to use.
 
 ---
